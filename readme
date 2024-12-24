@@ -12,7 +12,7 @@ This repository is organized into the following sections:
   - String Formatting, Type Conversion, and User Input
   - Python Operators
 
-- **Module 2**: Control Flow in Python
+- **Module 2**: Control Flow in Python,
   - Decision Making (`if`, `elif`, `else`)
   - Python Loops (Part 1–4)
   - `break` and `continue` statements
